@@ -1,4 +1,6 @@
 body {
-	background: green;
+	background: greenyellow;
 	font-size: 40px;
+	width: 400px;
+	margin: 0 auto;
 }
